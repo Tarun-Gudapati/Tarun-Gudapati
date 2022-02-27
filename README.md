@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tarun-Gudapati
 - 👀 I am a total tech freak
 - 🌱 I’m currently learning DSA with JAVA
-- 💞️ I’m looking to collaborate on w
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me tarungudapati463@gmail.com
 
 <!---
