@@ -4,4 +4,6 @@
 - 🌱 I’m currently learning DSA with JAVA and Android Development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me tarungudapati463@gmail.com
-
+<p align="center">
+<img src ="https://github.com/Tarun-Gudapati/Tarun-Gudapati/blob/main/images/batman.gif"/>
+</p>
