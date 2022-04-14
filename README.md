@@ -21,3 +21,23 @@
 
 ## Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+## Connect with me
+  
+<a href="https://twitter.com/gudapati_tarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindwrapper" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tarun-gudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurva866" height="30" width="40" /></a>
+<a href="https://instagram.com/tarun_gudapati_9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind.wrapper" height="30" width="40" /></a>
+<a href="https://medium.com/@tarungudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tarungudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a>
+ 
+<p align="center"> <a href="https://twitter.com/gudapati_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/gudapati_tarun?logo=twitter&style=for-the-badge" alt="Tarun Gudapati" /></a> </p>
+
+</p>
+
+<details>
+	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
+	<p>
+		<a align="center" href="https://twitter.com/mindwrapper">
+			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=mindwrapper&layout=wide&show_retweet=off&show_reply=off?" />
+		</a>	
+	</p>
