@@ -24,7 +24,7 @@
 <a href="https://twitter.com/gudapati_tarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindwrapper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarun-gudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurva866" height="30" width="40" /></a>
 <a href="https://instagram.com/tarun_gudapati_9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind.wrapper" height="30" width="40" /></a>
-<a href="https://medium.com/@tarungudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
+<a href="https://medium.com/@tarun-gudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tarungudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a>
  
 <p align="center"> <a href="https://twitter.com/gudapati_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/gudapati_tarun?logo=twitter&style=for-the-badge" alt="Tarun Gudapati" /></a> </p>
