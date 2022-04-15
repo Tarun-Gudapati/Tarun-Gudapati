@@ -34,7 +34,7 @@
 <details>
 	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
 	<p>
-		<a align="center" href="https://twitter.com/mindwrapper">
-			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=mindwrapper&layout=wide&show_retweet=off&show_reply=off?" />
+		<a align="center" href="https://twitter.com/gudapati_tarun">
+			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=gudapati_tarun&layout=wide&show_retweet=off&show_reply=off?" />
 		</a>	
 	</p>
