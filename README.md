@@ -2,7 +2,7 @@
 
 - 👀 I am a total tech freak
 - 🌱 I’m currently learning DSA with JAVA and exploring a bit of Android Development
-- 💞️ I’m looking to collaborate on web development and ML projects
+- 💞️ I’m looking to collaborate on web ML projects
 - 📫 How to reach me tarungudapati463@gmail.com
 - 👨‍💻 Check out my [Portfolio](https://tarun-gudapati.github.io/Tarun-Portfolio-1/)
 <p align="center">
