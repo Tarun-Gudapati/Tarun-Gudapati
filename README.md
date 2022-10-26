@@ -27,9 +27,10 @@
 <a href="https://medium.com/@tarun-gudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
 <a href="https://leetcode.com/Tarun-Gudapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a>
  
-<p align="center"> <a href="https://twitter.com/gudapati_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/gudapati_tarun?logo=twitter&style=for-the-badge" alt="Tarun Gudapati" /></a> </p>
+<p align="center"> <a href="https://twitter.com/gudapati_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/gudapati_tarun?logo=twitter&style=for-the-badge" alt="Tarun Gudapati" /></a> 
 
-</p>
+[![@tarungudapati's Holopin board](https://holopin.me/tarungudapati)](https://holopin.io/@tarungudapati)
+
 
 <details>
 	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
