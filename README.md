@@ -3,7 +3,7 @@
 - 👀 I am a total tech freak
 - 🌱 I’m currently learning DSA with JAVA and exploring a bit of Android Development
 - 💞️ I’m looking to collaborate on web ML projects
-- 📫 How to reach me tarungudapati463@gmail.com
+- 📫 How to reach me tarungudapati539@gmail.com
 - 👨‍💻 Check out my [Portfolio](https://tarun-gudapati.github.io/Tarun-Portfolio-1/)
 <p align="center">
 <img src ="https://github.com/Tarun-Gudapati/Tarun-Gudapati/blob/main/images/batman.gif"/>
