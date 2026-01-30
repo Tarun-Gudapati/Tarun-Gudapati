@@ -95,14 +95,26 @@ Fun products built with production-quality code
 <!-- ===================================================== -->
 <!-- PHILOSOPHY -->
 <!-- ===================================================== -->
-
 ## Engineering Philosophy
 
-```text
-Design → Build → Measure → Optimize → Scale
-Good code works.
+Design → Build → Measure → Optimize → Scale  
+Good code works.  
 Great code lasts.
 
-<br/> <!-- ===================================================== --> <!-- CONTACT --> <!-- ===================================================== -->
-Connect
-<p align="center"> <a href="https://www.linkedin.com/in/tarun-gudapati/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:tarungudapati30@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p> <br/> <!-- ===================================================== --> <!-- FOOTER --> <!-- ===================================================== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f2937,50:111827,100:0d1117&section=footer"/> ```
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarun-gudapati/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tarungudapati30@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f2937,50:111827,100:0d1117&section=footer"/>
