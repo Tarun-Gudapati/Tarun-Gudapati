@@ -4,9 +4,15 @@
 
 <h1 align="center">tarun@github:~$</h1>
 
-<p align="center">
-  <img src="profile.png" width="180" style="border-radius:50%;" />
-</p>
+```text
+████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
+╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║
+   ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║
+   ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║
+   ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+
+tarun@gudapati
 
 <p align="center">
   <i>Backend Engineer • System Builder • Problem Solver</i>
@@ -15,8 +21,7 @@
 ---
 
 ```bash
-$ whoami
-Tarun Gudapati
+
 
 $ role
 .NET Backend Engineer | Angular Developer
