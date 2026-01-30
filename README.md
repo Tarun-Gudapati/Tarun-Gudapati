@@ -1,49 +1,90 @@
-<h1 align="center">👋, Hi, I’m Tarun Gudapati</h1>
+<!-- ================= HEADER ================= -->
 
-- 👀 I am a total tech freak.....
-- 🌱 I’m currently learning DSA with JAVA and exploring a bit of Android Development
-- 💞️ I’m looking to collaborate on web ML projects
-- 📫 How to reach me tarungudapati539@gmail.com
-- 👨‍💻 Check out my [Portfolio](https://tarun-gudapati.github.io/Tarun-Portfolio-1/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Tarun%20Gudapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 <p align="center">
-<img src ="https://github.com/Tarun-Gudapati/Tarun-Gudapati/blob/main/images/batman.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=.NET+Backend+Engineer;Angular+Frontend+Developer;Clean+Architecture+%7C+Scalable+Systems;Data+Structures+%26+Algorithms;Building+Production+Grade+Software" />
 </p>
 
+<br/>
 
+<!-- ================= ABOUT ================= -->
 
+## About
 
-## Languages
+I design and build **scalable, production-ready software systems** with a focus on  
+clean architecture, performance, and maintainability.
 
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- .NET + Angular Developer @ Ample Logic  
+- Strong in DSA, system design, backend engineering  
+- Real-world experience with deployments, hotfixes, and optimizations  
+- Goal → Top product companies & high impact engineering roles  
 
-## Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br/>
 
+<!-- ================= STACK ================= -->
 
-## Stats
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarun-Gudapati&show_icons=true&locale=en&layout=compact" alt="Tarun-Gudapati" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,mysql,docker,git,github,postman,vscode&perline=11" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Gudapati&" alt="Tarun-Gudapati" /></p>
+<br/>
 
-## Connect with me
-  
-<a href="https://twitter.com/gudapati_tarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindwrapper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarun-gudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurva866" height="30" width="40" /></a>
-<a href="https://instagram.com/tarun_gudapati_9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind.wrapper" height="30" width="40" /></a>
-<a href="https://medium.com/@tarun-gudapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
-<a href="https://leetcode.com/Tarun-Gudapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a>
- 
-<p align="center"> <a href="https://twitter.com/gudapati_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/gudapati_tarun?logo=twitter&style=for-the-badge" alt="Tarun Gudapati" /></a> 
+<!-- ================= STATS ================= -->
 
-[![@tarungudapati's Holopin board](https://holopin.me/tarungudapati)](https://holopin.io/@tarungudapati)
+## Engineering Activity
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarun-Gudapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Gudapati&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
 
-<details>
-	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
-	<p>
-		<a align="center" href="https://twitter.com/gudapati_tarun">
-			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=gudapati_tarun&layout=wide&show_retweet=off&show_reply=off?" />
-		</a>	
-	</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun-Gudapati&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<br/>
+
+<!-- ================= LEETCODE ================= -->
+
+## Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+<br/>
+
+<!-- ================= PROJECTS ================= -->
+
+## Featured Systems
+
+### HRMS Platform
+Enterprise employee management system  
+Role-based access • Payroll • Dashboards • Reporting  
+**Stack:** .NET, Angular, SQL
+
+---
+
+### Inventory Management System
+Real-time stock tracking and analytics  
+Optimized queries • Clean modular architecture  
+**Stack:** .NET, Angular, MySQL
+
+---
+
+### Portfolio + Flutter Mini Apps
+Interactive mobile experiences with animations and sensors  
+Truth/Dare + AI mini apps  
+**Stack:** Flutter, APIs
+
+<br/>
+
+<!-- ================= PHILOSOPHY ================= -->
+
+## Engineering Philosophy
+
+```text
+Design → Build → Measure → Optimize → Scale
