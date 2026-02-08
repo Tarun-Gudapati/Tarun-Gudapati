@@ -1,8 +1,25 @@
 <!-- ========================================================= -->
-<!--               TARUN TERMINAL PROFILE vFINAL               -->
+<!--              TARUN TERMINAL PROFILE — ULTRA               -->
 <!-- ========================================================= -->
 
+<!-- WAVE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tarun%20Gudapati&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- MATRIX RAIN BACKGROUND FEEL -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">tarun@github:~$</h1>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=.NET+Backend+Engineer;Angular+Developer;System+Design+Enjoyer;Clean+Architecture+Fanatic;DSA+Daily+Grind;Shipping+Production+Like+a+Machine" />
+</p>
+
+---
 
 ```text
 ████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
@@ -13,15 +30,15 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 
 tarun@gudapati
-
-<p align="center">
-  <i>Backend Engineer • System Builder • Problem Solver</i>
-</p>
+```
 
 ---
 
-```bash
+## 🧠 Terminal Info
 
+```bash
+$ whoami
+Tarun Gudapati
 
 $ role
 .NET Backend Engineer | Angular Developer
@@ -29,76 +46,28 @@ $ role
 $ company
 Ample Logic
 
-$ philosophy
-Design → Build → Scale → Optimize → Repeat
-
 $ status
-Actively shipping production systems
+Shipping. Scaling. Optimizing.
+
+$ motto
+Build → Break → Fix → Scale → Repeat
 ```
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                         NEOFETCH                             │
-├──────────────────────────────────────────────────────────────┤
-│ Name      : Tarun Gudapati                                   │
-│ Location  : India                                            │
-│ Stack     : C# | .NET | Angular | SQL | Docker | REST APIs   │
-│ Editor    : VS Code                                          │
-│ Strength  : Clean Architecture + Performance                 │
-│ Workstyle : Deployments | Hotfixes | Optimizations           │
-│ Uptime    : Gym | Code | Repeat                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                        SKILL MATRIX                          │
-├──────────────────────────────────────────────────────────────┤
-│ C#          ████████████████████████  Expert                  │
-│ .NET        ████████████████████████  Expert                  │
-│ Angular     ██████████████████████    Advanced                │
-│ SQL         ████████████████████      Advanced                │
-│ Docker      █████████████             Intermediate            │
-│ DSA         ████████████████████      Daily grind             │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       PROJECT MODULES                        │
-├──────────────────────────────────────────────────────────────┤
-│ hrms-system              → employee lifecycle + payroll      │
-│ inventory-management     → stock tracking + analytics        │
-│ portfolio-site           → engineering showcase              │
-│ leetcode-solutions       → algorithms mastery                │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-```bash
-$ tech_stack --icons
-```
+## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,mysql,docker,git,github,postman,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,mysql,docker,git,github,linux,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-```bash
-$ system_metrics
-```
+## 📊 System Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tarun-Gudapati&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Gudapati&theme=dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tarun-Gudapati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Gudapati&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -106,6 +75,51 @@ $ system_metrics
 </p>
 
 ---
+
+## 🐍 Contribution Snake (THIS ONE LOOKS CRAZY COOL)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarun-Gudapati/Tarun-Gudapati/output/snake.svg" />
+</p>
+
+---
+
+## 🧩 Skill Matrix
+
+```text
+C#        ████████████████████████  Expert
+.NET      ████████████████████████  Expert
+Angular   ██████████████████████    Advanced
+SQL       ████████████████████      Advanced
+Docker    █████████████             Intermediate
+DSA       ████████████████████      Daily grind
+```
+
+---
+
+## 🚀 Projects
+
+```bash
+$ ls modules
+hrms-system/
+inventory-management/
+portfolio-site/
+leetcode-solutions/
+```
+
+---
+
+## 🐞 Fun Stuff (flying bugs + hacker vibes)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 📫 Contact
 
 ```bash
 $ contact --show
@@ -115,8 +129,12 @@ Email    : tarungudapati30@gmail.com
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
 ```bash
 $ exit
 logout
-Connection to github closed.
+Connection closed.
 ```
