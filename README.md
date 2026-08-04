@@ -3,59 +3,60 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./assets/analytics-grid.svg" alt="Tarun Gudapati — today, in numbers" width="100%" />
+  <img src="./assets/analytics-grid.svg" alt="Tarun Gudapati — software engineer, .NET + Angular" width="100%" />
 </p>
 
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4ADE80&center=true&vCenter=true&width=700&lines=tarun@safe-financials:~$+_" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=4ADE80&center=true&vCenter=true&width=700&lines=tarun@gudapati:~$+_" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=.NET+Backend+Engineer+%7C+Angular+Developer;Building+AI-Powered+Fintech+at+Scale;Clean+Architecture+%E2%86%92+Performance+Obsessed;Design+%E2%86%92+Build+%E2%86%92+Scale+%E2%86%92+Optimize" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+.NET+%2B+Angular;2+years+shipping+production+systems;Backend+that+scales%2C+UI+that+ships;And+yes%2C+I+design+it+too" />
 </p>
 
 ---
 
 ## `> whoami`
 
-```text
-  Name       Tarun Gudapati
-  Role       .NET Backend Engineer · Angular Developer
-  Company    Safe Financials (prev: Ample Logic)
-  Location   Hyderabad, India
-  Schedule   6 AM grind · Mon→Sat · no shortcuts
-```
+I build production software end to end — .NET services on the back, Angular on the front, and I design the thing so it doesn't look like a 2009 admin panel.
 
-I'm 22, obsessed with building systems that scale, and currently deep in fintech infrastructure. I read people better than docs, speak with clarity, and write code the same way — intentional, no fluff.
+Two years in, my work has gone live in **fintech, HR, and inventory** systems. Real users, real money, real consequences when it breaks. That taught me more about performance, edge cases, and boring reliability than any tutorial could.
 
-**What drives me:** Ownership. I don't wait for tickets. I find the problem, propose the fix, ship it, and move to the next thing. Gym at dawn, code till it's done.
+<sub>Software engineer at **Safe Financials** (fintech) · previously Ample Logic · Hyderabad, IST</sub>
+
+**How I work:** I don't wait for a ticket to tell me something's broken. I find it, scope a fix, ship it, and move on. Same energy at 6 AM as at 11 PM.
 
 ---
 
-## `> cat /etc/safe-financials`
+## `> cat ~/.services`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### What We Do
-**Safe Financials** builds financial assessment & lending infrastructure — bank statement analysis, credit scoring, automated risk evaluation. Think: raw financial data → intelligent decisions at speed.
+### Engineering
+- **.NET backends** — REST APIs, EF Core, clean architecture, async pipelines
+- **Angular front-ends** — dashboards, complex forms, internal tools
+- **Full-stack features** — DB schema through to the button someone clicks
+- **AI / LLM integration** — wiring Claude and similar APIs into products that already exist
+- **SQL performance work** — schema design, query tuning, fixing the page that takes 9 seconds
 
 </td>
 <td width="50%" valign="top">
 
-### What I Build There
-- **OnlineApps** — Full-stack loan origination platform (.NET + Angular)
-- **AI Assessment Engine** — Claude API integration for intelligent question generation from bank statements
-- **Albert** — Internal tooling & automation systems
-- EF Core queries tuned for production SQL compat
-- Fire-and-forget orchestration, prompt caching, email pipelines
+### Design & Creative
+- **Brand and social creatives** — posters, launch graphics, campaign sets
+- **Photo editing** — retouching, compositing, cleanup
+- **UI polish** — taking a product that *works* and making it look like someone cared
+- **Pitch and deck design** — slides that actually land
 
 </td>
 </tr>
 </table>
+
+> Most dev shops hand you working software that looks unfinished. Most designers hand you a mockup nobody can build. I do both sides, so nothing gets lost in the handoff.
 
 ---
 
@@ -66,19 +67,43 @@ I'm 22, obsessed with building systems that scale, and currently deep in fintech
 </p>
 
 <details>
-<summary><b>Expand skill breakdown</b></summary>
+<summary><b>Honest skill breakdown</b> — what I'd actually be comfortable owning</summary>
 <br>
 
 ```text
-C# / .NET       ████████████████████████  Expert       — EF Core, Clean Arch, CQRS
-Angular / TS    ██████████████████████    Advanced     — RxJS, Signals, Lazy Loading
-SQL Server      ████████████████████      Advanced     — Query tuning, compat levels
-Docker          █████████████████         Intermediate — Compose, multi-stage builds
-System Design   ████████████████████      Growing      — DDD, event-driven patterns
-DSA             ████████████████████      Daily grind  — LeetCode warrior
+C# / .NET        ██████████████████████    daily driver   — EF Core, DI, clean arch, async
+Angular / TS     ████████████████████      daily driver   — RxJS, reactive forms, components
+SQL Server       ██████████████████        solid          — schema design, query tuning
+LLM integration  █████████████████         shipped it     — Claude API, prompt caching, queues
+Design / Adobe   ████████████████████      strong         — posters, creatives, photo editing
+Docker / CI      █████████████             working on it  — compose, multi-stage builds
+System design    ██████████████            growing        — DDD, event-driven patterns
+DSA              ████████████████          daily grind    — the LeetCode habit
 ```
 
+No "expert" labels here. Two years in, I know what I can own and what I'd need a week to get good at — and I'd rather tell you upfront than oversell.
+
 </details>
+
+---
+
+## `> ls ~/work --shipped`
+
+```bash
+fintech/
+├── lending-platform/     # loan origination, end to end — .NET + Angular
+├── ai-assessment/        # LLM-driven analysis of financial documents
+└── internal-tooling/     # automation that removed manual ops work
+
+hr/
+└── hrms/                 # full HR management system
+
+operations/
+└── inventory/            # stock and warehouse management
+
+practice/
+└── dsa/                  # daily problem solving
+```
 
 ---
 
@@ -93,46 +118,31 @@ DSA             ████████████████████    
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun-Gudapati&theme=react-dark&area=true&hide_border=true&bg_color=0a0f1f"/>
 </p>
 
----
-
-## `> cat /var/log/contributions.snake`
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarun-Gudapati/Tarun-Gudapati/output/snake-dark.svg"/>
 </p>
 
----
-
-## `> ls ~/projects --shipped`
-
-```bash
-safe-financials/
-├── online-apps/          # Loan origination platform — .NET + Angular
-├── ai-assessment/        # Claude-powered bank statement analysis
-├── albert/               # Internal automation & tooling
-hrms-system/              # Full HR management system
-inventory-management/     # Stock & warehouse ops
-leetcode-solutions/       # Daily DSA grind
-```
+<sub align="center">Most of my production work lives in private repos, so this graph undersells it. Ask me and I'll walk you through what I've built.</sub>
 
 ---
 
-## `> cat ~/.personality`
+## `> cat ~/.edge`
 
-```text
-  Communicator    ██████████████████████████  talks > types
-  People Reader   ████████████████████████    reads rooms, not just rooms.md
-  Design Eye      ████████████████████████    posters, creatives, visual craft
-  Gym Rat         ██████████████████████      iron sharpens iron
-  Builder         ████████████████████████    if it's broken, I ship the fix
-  Closer          ██████████████████████      persuasion is an engineering skill
-```
+The part that isn't on a résumé:
 
-> *"I don't just write code — I build things people use, pitch ideas people buy, and design things people remember."*
+- **I can explain the thing.** Non-technical stakeholders leave my calls knowing what we're building and why. That's rarer than it should be.
+- **I read the room.** I catch the objection someone hasn't said out loud yet, in a client call or a code review.
+- **I have an eye.** Years of design work means I notice the spacing, the hierarchy, the thing that feels off — and I can fix it myself.
+- **I close.** Persuasion is a craft. I've learned it the same way I learned .NET: reps.
+- **I show up.** Gym before work, code after. The consistency is the whole strategy.
 
 ---
 
-## `> netstat --connections`
+## `> hire --me`
+
+I'm open to **freelance and contract work** (roughly 3 PM–11 PM IST, weekdays and Saturdays) and I'll always hear out a strong **full-time** conversation.
+
+**Good fits:** .NET or Angular feature work · adding AI to an existing product · SQL performance rescue · design retainers · a build that needs one person who can do both
 
 <p align="center">
   <a href="https://linkedin.com/in/tarun-gudapati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -147,5 +157,5 @@ leetcode-solutions/       # Daily DSA grind
 
 <p align="center">
   <code>$ exit</code><br>
-  <sub>Connection closed. Ship resumed.</sub>
+  <sub>Build it. Ship it. Make it look good.</sub>
 </p>
